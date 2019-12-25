@@ -57,13 +57,14 @@ Display the schedule of a route.
 Find the availability of a route at every stop on a specific day and time.
 ```
 
--db.sql: used to create tables
+### File Description ###
+ - db.sql: used to create tables
 
--data.sql: contains all the data of the railway system
+ - data.sql: contains all the data of the railway system
 
--functions.sql: contains all functions mentioned above
+ - functions.sql: contains all functions mentioned above
 
--Database.java: user interface
+ - Database.java: user interface
 
 
 ---
