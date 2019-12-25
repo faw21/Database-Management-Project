@@ -6,7 +6,7 @@ Projects from class
 ### Description ###
 This term project was an implementation of a railway database system. The database contains tables of:
 
-"""
+```
 stations, (station id, name, address, start/end operation time)
 
 trains, (train id, name, description, total seats, speed, cost per km)
@@ -23,11 +23,11 @@ routeScheds, (route id, train id, seats available, operating time)
 customers, (customer id, name, address, number)
 
 bookings, (booking id, route id, train id, customer id, operating time)
-"""
+```
 
 A user can achieve multiple operations through user interface, including:
 
-"""
+```
 Add a new customer.
 
 Edit a customer.
@@ -55,7 +55,7 @@ Find routes that stop at least at XX% of the Stations they visit.
 Display the schedule of a route.
 
 Find the availability of a route at every stop on a specific day and time.
-"""
+```
 
 -db.sql: used to create tables
 -data.sql: contains all the data of the railway system
