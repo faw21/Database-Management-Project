@@ -57,7 +57,7 @@ Display the schedule of a route.
 Find the availability of a route at every stop on a specific day and time.
 ```
 
-For more detailed information, see [project1.pdf](https://github.com/faw21/Database-Management-Project/blob/master/project.pdf)
+For more detailed information, see [project.pdf](https://github.com/faw21/Database-Management-Project/blob/master/project.pdf)
 
 ### File Description ###
  - db.sql: used to create tables
