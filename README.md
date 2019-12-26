@@ -60,13 +60,13 @@ Find the availability of a route at every stop on a specific day and time.
 For more detailed information, see [project.pdf](https://github.com/faw21/Database-Management-Project/blob/master/project.pdf)
 
 ### File Description ###
- - db.sql: used to create tables
+ - [db.sql](https://github.com/faw21/Database-Management-Project/blob/master/src/db.sql): used to create tables
 
- - data.sql: contains all the data of the railway system
+ - [data.sql](https://github.com/faw21/Database-Management-Project/blob/master/src/data.sql): contains all the data of the railway system
 
- - functions.sql: contains all functions mentioned above
+ - [functions.sql](https://github.com/faw21/Database-Management-Project/blob/master/src/functions.sql): contains all functions mentioned above
 
- - Database.java: user interface
+ - [Database.java](https://github.com/faw21/Database-Management-Project/blob/master/src/Database.java): user interface
 
 
 ---
